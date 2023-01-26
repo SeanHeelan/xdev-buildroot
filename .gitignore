@@ -3,3 +3,4 @@ dl
 .config.old
 ..config.tmp
 overlay/lib/modules
+overlay/*.ko
